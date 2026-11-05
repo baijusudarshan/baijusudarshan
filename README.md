@@ -82,7 +82,7 @@ Nepali · English · German · Hindi
 
 ### 🏁 Hill Start Assist (HSA) on a Go-Kart
 A hill start assist system for a petrol-powered Go-Kart that holds the vehicle on an incline during launch.
-🔗 [Repository link](#) *(add your repo URL)*
+🔗 [Repository link](https://github.com/baijusudarshan/Experimental-Investigation-of-Hill-Start-Assist-System) 
 
 ### 🛑 Integration of Eddy Current Braking with Frictional Braking System · 2026 · *In progress*
 A braking system combining eddy current braking with a conventional frictional brake.
