@@ -89,7 +89,7 @@ A braking system combining eddy current braking with a conventional frictional b
 👥 Team: Anish Bimali, Sudarshan Baiju, Shishir Khanal, Sujal Dahal
 
 ### 🛒 YouthTechOnlineShopping
-🔗 [github.com/baijusudarshan/YouthTechOnlineShopping](https://github.com/baijusudarshan/YouthTechOnlineShopping)
+🔗 [github.com/baijusudarshan/YouthTechOnlineShopping](https://github.com/baijusudarshan/youth-tech-online-shopping)
 
 ---
 
@@ -103,4 +103,4 @@ A braking system combining eddy current braking with a conventional frictional b
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baijusudarshan&show_icons=true&theme=tokyonight&hide_border=true)
+**Thank You**
